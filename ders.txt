@@ -1,1 +1,3 @@
 Bu derste git kullanmayı öğreneceğiz.
+
+3. Haftada Lineer Regresyon öğreneceğiz.
