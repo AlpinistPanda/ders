@@ -1,3 +1,5 @@
-Bu derste git kullanmayı öğreneceğiz.
+Ders Programı:
 
-3. Haftada Lineer Regresyon öğreneceğiz.
+1. Hafta: Introduction and discussion on the course
+2. Hafta: Version Control
+3. Hafta: Datasets and Datascraping
